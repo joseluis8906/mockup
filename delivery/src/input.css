@@ -23,3 +23,7 @@
     display: none;
 }
 
+input[type="text"] {
+  font-size: inherit;
+}
+
